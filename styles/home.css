@@ -49,20 +49,58 @@ nav{
     left: 5%;
     transform: translate(-50%,-50);
     -webkit-text-stroke: 1px darkgoldenrod;
+}
+.middle-box{
+    border: 2px solid firebrick;
     
 }
-.block2{
+.purpose{
     max-width: 900px;
     text-align: center;
     margin: 0 auto;
 }
-.block2 h2{
+.purpose h2{
     font-family: 'Cinzel Decorative', cursive;
     font-size: 35px;
+    color: darkgoldenrod;
 }
-.block2 p{
+.purpose p{
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
+    font-weight: bold;
+    color: firebrick;
+}
+.approach{
+    max-width: 900px;
+    text-align: center;
+    margin: 0 auto;
+}
+.approach h2{
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 35px;
+    color: darkgoldenrod;
+}
+.approach p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: firebrick;
+}
+.Values{
+    max-width: 900px;
+    text-align: center;
+    margin: 0 auto;
+}
+.Values h2{
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 35px;
+    color: darkgoldenrod;
+}
+.Values li{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: firebrick;
 }
 @media (max-width:400px){
     nav{
