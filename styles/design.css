@@ -58,6 +58,15 @@ table,th,td{
     background: #000000;
     color: #ffffff;
 }
+.mlogo{
+    width: 450px;
+    text-align: center;
+}
+.log h1{
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 25px;
+    color: #990000;
+}
 .typography h3, .typography h4{
     font-family: 'Cinzel Decorative', cursive;
     font-size: 25px;
