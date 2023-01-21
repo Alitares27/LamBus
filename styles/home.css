@@ -38,7 +38,7 @@ nav{
     top: 30%;
     left: 5%;
     transform: translate(-50%,-50);
-    -webkit-text-stroke: 1px darkgoldenrod;
+    -webkit-text-stroke: 1px white;
 }
 .container h4{
     font-family: 'Cinzel Decorative', cursive;
@@ -48,7 +48,7 @@ nav{
     top: 45%;
     left: 5%;
     transform: translate(-50%,-50);
-    -webkit-text-stroke: 1px darkgoldenrod;
+    -webkit-text-stroke: 1px white;
 }
 .middle-box{
     border: 2px solid firebrick;
